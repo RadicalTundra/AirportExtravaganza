@@ -35,11 +35,15 @@
     <a href="validation/showForm">Customer Information</a>
 </p>
 
+<h3>Airplane Excitement</h3>
+<p>
+    <a href="airplane/showForm">Airplane Reservation</a>
+</p>
+
 <p>
     <h3>Reference Static Resources (Images, Stylesheets, etc.)</h3>
     <img src="${pageContext.request.contextPath}/resources/img/hellokitty.gif" alt="Hello Kitty typing" width="480" height="480">
 </p>
-
 
 
 </body>
